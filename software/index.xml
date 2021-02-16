@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Softwares on Johnny O&#39;Rourke</title>
-    <link>https://github.com/TacticalPants/TacticalPants.github.io/software/</link>
+    <link>https://TacticalPants.github.io/software/</link>
     <description>Recent content in Softwares on Johnny O&#39;Rourke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 14 Feb 2021 09:32:32 -0500</lastBuildDate>
     
-	<atom:link href="https://github.com/TacticalPants/TacticalPants.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://TacticalPants.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rock Detection Application</title>
-      <link>https://github.com/TacticalPants/TacticalPants.github.io/software/big-rock-doctor/</link>
+      <link>https://TacticalPants.github.io/software/big-rock-doctor/</link>
       <pubDate>Sun, 14 Feb 2021 09:32:32 -0500</pubDate>
       
-      <guid>https://github.com/TacticalPants/TacticalPants.github.io/software/big-rock-doctor/</guid>
+      <guid>https://TacticalPants.github.io/software/big-rock-doctor/</guid>
       <description>This application allows a user to submit a photo of a rock or any other object and it will determine if the photo was of a rock or not.
 This project was conceived after reading the book &amp;ldquo;The Geology of New York City and environs&amp;rdquo;. The book is a riveting tour of basic geologic theory and the geologic history of New York, from 2 billion years ago until 1970, when the book was written.</description>
     </item>
     
     <item>
       <title>Algorythm Trade Bot</title>
-      <link>https://github.com/TacticalPants/TacticalPants.github.io/software/second-post/</link>
+      <link>https://TacticalPants.github.io/software/second-post/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/TacticalPants/TacticalPants.github.io/software/second-post/</guid>
+      <guid>https://TacticalPants.github.io/software/second-post/</guid>
       <description>This tool requests live market data from the Alpha Vantage API which can be viewed and processed and trades can be made using a trade API, this application uses Alpaca.
 The tool is run from a desktop GUI interface. The project collects data from the Alpha Vantage api, initializes and stores the data in a Mongodb, and plots the data in graph form in the GUI. The tool in its current form imports several cryptocurrencies but can be modified to view or trade anything.</description>
     </item>
     
     <item>
       <title>HTML Browser</title>
-      <link>https://github.com/TacticalPants/TacticalPants.github.io/software/my-first-post/</link>
+      <link>https://TacticalPants.github.io/software/my-first-post/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/TacticalPants/TacticalPants.github.io/software/my-first-post/</guid>
+      <guid>https://TacticalPants.github.io/software/my-first-post/</guid>
       <description>This is a simple HTML parsing browser written in Python. This project was a learning exercise and not for production. I sought to learn the basic mechanisms of how to build a web browser that connects with a host, retrieves information, and presents it. There is a lot more I could do with this product to make it more robust but I&amp;rsquo;m not looking to build a new Chrome, nor would that be a healthy learning exercise.</description>
     </item>
     
