@@ -23,11 +23,11 @@ This project was conceived after reading the book &amp;ldquo;The Geology of New 
     </item>
 	
     <item>
-      <titleData Server</title>
+      <title>Data Server</title>
       <link>https://TacticalPants.github.io/software/data_server/</link>
       <pubDate>Wed, 10 Mar 2021 09:32:32 -0500</pubDate>
       
-      <guid>https://TacticalPants.github.io/software/big-rock-doctor/</guid>
+      <guid>https://TacticalPants.github.io/software/data_server/</guid>
       <description>This project creates a data server on a Raspberry Pi.  And Flask API sends information from an application to the data sever where a neural network procesesses the information and retern the determination to the applicaion.  This server was the precurser to Rock Doctor, that is on my Github, that utilizes Google Firebase for ML processing.</description>
     </item>
 	  
