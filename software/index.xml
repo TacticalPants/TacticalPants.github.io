@@ -21,6 +21,16 @@
       <description>This application allows a user to submit a photo of a rock or any other object and it will determine if the photo was of a rock or not.
 This project was conceived after reading the book &amp;ldquo;The Geology of New York City and environs&amp;rdquo;. The book is a riveting tour of basic geologic theory and the geologic history of New York, from 2 billion years ago until 1970, when the book was written.</description>
     </item>
+	
+    <item>
+      <titleData Server</title>
+      <link>https://TacticalPants.github.io/software/data_server/</link>
+      <pubDate>Wed, 10 Mar 2021 09:32:32 -0500</pubDate>
+      
+      <guid>https://TacticalPants.github.io/software/big-rock-doctor/</guid>
+      <description>This project creates a data server on a Raspberry Pi.  And Flask API sends information from an application to the data sever where a neural network procesesses the information and retern the determination to the applicaion.  This server was the precurser to Rock Doctor, that is on my Github, that utilizes Google Firebase for ML processing.</description>
+    </item>
+	  
     
     <item>
       <title>Algorythm Trade Bot</title>
