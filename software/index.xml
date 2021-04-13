@@ -14,10 +14,10 @@
     
       <item>
       <title>Crisis Response</title>
-      <link>https://TacticalPants.github.io/software/big-rock-doctor/</link>
+      <link>https://github.com/TacticalPants/crisis_response/</link>
       <pubDate>Tue, 13 April 2021 09:32:32 -0500</pubDate>
       
-      <guid>https://TacticalPants.github.io/software/big-rock-doctor/</guid>
+      <guid>https://github.com/TacticalPants/crisis_response/</guid>
       <description>This project builds the front and back end of a crisis response mapping application.  This project was inspired by my company&amp;rdquo;s response following a plant explosion in Texas.  It consolidates all the information a responder needs to go out into a field and investigate multiple properties.  The backend information is stored on a google sheet which is exported to an API supported by Google Endpoints.  The mobile application accesses this data and populates a map that responders can operate in the field.</description>
     </item>
     <item>
